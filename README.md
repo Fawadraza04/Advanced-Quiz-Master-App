@@ -2,7 +2,8 @@
 
 A feature-rich quiz application built with vanilla JavaScript that tests your knowledge across multiple categories.
 
-![Quiz App Screenshot](https://via.placeholder.com/600x400?text=Advanced+Quiz+Master+Screenshot)
+<img width="626" height="598" alt="image" src="https://github.com/user-attachments/assets/b60a522f-f2b1-4415-9144-3164283ef481" />
+
 
 ## Features
 
